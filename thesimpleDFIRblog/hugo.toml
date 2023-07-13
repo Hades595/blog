@@ -1,0 +1,4 @@
+baseURL = 'http://hades595.github.io/'
+languageCode = 'en-us'
+title = 'thesimpleDFIRblog'
+theme = "hugo-paper"
