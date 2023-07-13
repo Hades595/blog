@@ -1,0 +1,4 @@
+[submodule "thesimpleDFIRblog/public"]
+	path = thesimpleDFIRblog/public
+	url = https://github.com/Hades595/hades595.github.io
+	branch = main
