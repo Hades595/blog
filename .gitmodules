@@ -2,3 +2,6 @@
 	path = thesimpleDFIRblog/public
 	url = https://github.com/Hades595/hades595.github.io
 	branch = main
+[submodule "thesimpleDFIRblog/themes/paper"]
+	path = thesimpleDFIRblog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
