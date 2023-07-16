@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'thesimpleDFIRblog'
 theme = "paper"
 
-builddrafts = true
-
 [params]
   # color style
   color = 'light'                           # linen, wheat, gray, light
@@ -15,7 +13,7 @@ builddrafts = true
 
   # home page profile
   name = 'Chirag Mehta'
-  bio = 'Student. Constantly Learning.'
+  bio = 'Student; Constantly Learning.'
 
 
   # misc
